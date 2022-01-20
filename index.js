@@ -1,7 +1,7 @@
 const express = require('express')
 const path = require('path')
 const PORT = process.env.PORT || 5000
-const savasci =  require("./heroes/savascci.json")
+const savasci =  require("./heroes/savasci.json")
 const saman =  require("./heroes/saman.json")
 const sura =  require("./heroes/sura.json")
 const ninja =  require("./heroes/ninja.json")
